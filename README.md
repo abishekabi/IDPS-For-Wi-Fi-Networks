@@ -11,8 +11,8 @@ Intrusion Detection and Prevention for Wi-Fi Networks
 3. Tools & libraries required: </br>
         <pre>  1. Python 2.7.3 </br> </pre>
         <pre>  2. Qt4 and Pyqt4 </br> </pre>
-        <pre>  3. Scapy </br> <pre>
-        <pre>  4. Aircrack-ng </br> <pre>
+        <pre>  3. Scapy </br> </pre>
+        <pre>  4. Aircrack-ng </br> </pre>
 4. Currently it can detection 4 attacks & prevention for 2 attacks </br>
 5. Fork this Repository if u can. </br>
 </br>
