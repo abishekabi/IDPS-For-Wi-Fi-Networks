@@ -6,7 +6,7 @@ Intrusion Detection and Prevention for Wi-Fi Networks
 
 ***********************************************************************************************
 </br>
-1. Use python2.7.3 to run the tool (E.g.  python2.7 idps.py ). </br>
+1. Use python2.7.3 to run the tool (E.g.  python2.7 scan.py ). </br>
 2. This GUI application/tool runs on Linux platforms. </br>
 3. Tools & libraries required: </br>
         <pre>  1. Python 2.7.3 </br> </pre>
