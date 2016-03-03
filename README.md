@@ -14,6 +14,6 @@ Intrusion Detection and Prevention for Wi-Fi Networks
         <pre>  3. Scapy </br> </pre>
         <pre>  4. Aircrack-ng </br> </pre>
 4. Currently it can detect 4 attacks & prevent 2 types of attacks </br>
-5. Fork this Repository if u can. </br>
+
 </br>
 ***********************************************************************************************
